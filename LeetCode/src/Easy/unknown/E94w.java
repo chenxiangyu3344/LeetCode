@@ -1,4 +1,4 @@
-package Easy;
+package easy.unknown;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ import javax.sound.midi.Synthesizer;
 
 输出: [1,3,2]
  */
-public class easy94w {
+public class E94w {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
